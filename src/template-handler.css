@@ -1,0 +1,7 @@
+.input-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    display: grid;
+    grid-template-columns: repeat(32, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+}

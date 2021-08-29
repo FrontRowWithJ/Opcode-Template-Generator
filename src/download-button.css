@@ -1,0 +1,25 @@
+.download-button {
+    margin-left: .5vw;
+    border: none;
+    padding: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 100vw;
+    cursor: pointer;
+    margin-top: 74.5px;
+}
+
+.download-button:hover .download-svg {
+    width: 70%;
+}
+
+.download-svg {
+    width: 60%;
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .download-button {
+        margin-top: 10px;
+    }
+}

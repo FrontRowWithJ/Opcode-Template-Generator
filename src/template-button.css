@@ -1,0 +1,31 @@
+.template-button {
+    border: none;
+    padding: none;
+    width: 10vw;
+    height: 30px;
+    margin: 0 .5vw;
+    border-radius: 3px;
+    font-size: 1vw;
+    cursor: pointer;
+
+}
+
+.template-button:hover {
+    background-color: white;
+}
+
+.template-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+@media only screen and (max-width: 1000px) {
+
+    .template-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
