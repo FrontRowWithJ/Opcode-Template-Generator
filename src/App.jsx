@@ -8,7 +8,7 @@ const App = () => {
   const [canPress, setPress] = useState(true);
   return (
     <main>
-    <h1>Micro-code/Opcode Template Generator</h1>
+    <h1>Micro-codesu/Opcode Template Generator</h1>
       {times(numOfButtons, (idx) => (
         <MoreButton
           canPress={canPress}
