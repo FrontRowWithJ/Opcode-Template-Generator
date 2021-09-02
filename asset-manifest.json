@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Opcode-Template-Generator/static/css/main.8daf6776.chunk.css",
-    "main.js": "/Opcode-Template-Generator/static/js/main.6f658e2c.chunk.js",
-    "main.js.map": "/Opcode-Template-Generator/static/js/main.6f658e2c.chunk.js.map",
+    "main.js": "/Opcode-Template-Generator/static/js/main.6aa9b793.chunk.js",
+    "main.js.map": "/Opcode-Template-Generator/static/js/main.6aa9b793.chunk.js.map",
     "runtime-main.js": "/Opcode-Template-Generator/static/js/runtime-main.d3801d95.js",
     "runtime-main.js.map": "/Opcode-Template-Generator/static/js/runtime-main.d3801d95.js.map",
     "static/js/2.361d1256.chunk.js": "/Opcode-Template-Generator/static/js/2.361d1256.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d3801d95.js",
     "static/js/2.361d1256.chunk.js",
     "static/css/main.8daf6776.chunk.css",
-    "static/js/main.6f658e2c.chunk.js"
+    "static/js/main.6aa9b793.chunk.js"
   ]
 }
